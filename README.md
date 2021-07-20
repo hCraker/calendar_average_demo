@@ -7,7 +7,9 @@ If there are any questions about `calendar_average`, please refer to [PR #158](h
 - access GLADE and navigate to `/glade/campaign/cgd/cesm/CESM2-LE/timeseries/atm/proc/tseries/hour_6/U850`
 - copy `b.e21.BHISTcmip6.f09_g17.LE2-1231.010.cam.h2.U850.2010010100-2014123100.nc` into your local clone of this repository
 
-If you don't have access to the GLADE system, go to the [CESM2-Large Ensemble](https://www.cesm.ucar.edu/projects/community-projects/LENS2/data-sets.html) dataset page for further instruction.
+If you don't have access to the GLADE system, go to the CESM2-Large Ensemble [dataset page](https://www.cesm.ucar.edu/projects/community-projects/LENS2/data-sets.html) for further instruction.
+
+This data is from the [CESM2 Large Ensemble Community Project](https://www.cesm.ucar.edu/projects/community-projects/LENS2/) which was conducted using supercomputing resources provided by the IBS Center for Climate Physics in South Korea. See [Rodgers et al. (2021)](https://doi.org/10.5194/esd-2021-50) for more information about the ensemble and the project.
 
 ## Files include:
 - climatology.py
